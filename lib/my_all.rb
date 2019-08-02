@@ -11,5 +11,4 @@ def my_all?(collection)
   end
   
   #collection.all? { |i| }
-  new_arr
 end
