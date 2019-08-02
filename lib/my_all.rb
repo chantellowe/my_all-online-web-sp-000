@@ -10,6 +10,6 @@ def my_all?(collection)
     i += 1 
   end
   
-  collection.all? { |i| }
+  #collection.all? { |i| }
 
 end
