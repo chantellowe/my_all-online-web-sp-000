@@ -10,5 +10,5 @@ def my_all?(collection)
     i += 1 
   end
   
-  collection.all? { |i| i < 4 }
+  new_arr.all? { |i| i < 4 }
 end
