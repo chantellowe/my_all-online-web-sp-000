@@ -10,5 +10,10 @@ def my_all?(collection)
     i += 1 
   end
   
-  #collection.all? { |i| i < 4 }
+  if new_arr.include?(false)
+    false
+  else
+    true
+  end
+  
 end
